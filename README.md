@@ -6,3 +6,4 @@ Website for a marketing agency
 ![Tux, the Linux mascot](/assets/images/img03.png)
 #### to clone the reposetory type in your terminal the following command: 
 `git clone git@github.com:Mlenaya/hands-on-marketing.git`
+You can find the link of the deployed website [Marketing agency](https://mlenaya.github.io/hands-on-marketing/)
